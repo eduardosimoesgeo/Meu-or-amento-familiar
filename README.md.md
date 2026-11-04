@@ -1,4 +1,4 @@
-# 💰 Meu Orçamento Familiar
+# Meu Orçamento Familiar
 
 <div align="center">
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **Meu Orçamento Familiar** é um projeto voltado para a centralização, organização e análise do planejamento financeiro doméstico. A proposta é transformar os lançamentos diários de receitas, despesas e investimentos em visualizações claras e relatórios práticos para auxílio na tomada de decisões.
 
 ---
 
-## 🚀 Funcionalidades Esperadas
+## Funcionalidades Esperadas
 
 - **Gestão de Fluxo de Caixa:** Lançamento e categorização de receitas, despesas fixas e despesas variáveis.
 - **Análise Qualitativa e Quantitativa:** Apuração de saldos, percentuais de gastos por categoria e identificação de gargalos.
@@ -28,7 +28,7 @@ O **Meu Orçamento Familiar** é um projeto voltado para a centralização, orga
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **[Python](https://www.python.org/):** Processamento de dados e rotinas de automação.
 * **[Pandas](https://pandas.pydata.org/):** Tratamento, agregação e análise das tabelas de lançamentos.
@@ -36,7 +36,7 @@ O **Meu Orçamento Familiar** é um projeto voltado para a centralização, orga
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 Meu-or-amento-familiar/
@@ -51,7 +51,7 @@ Meu-or-amento-familiar/
 
 ---
 
-## ⚙️ Como Executar
+## Como Executar
 
 ### Pré-requisitos
 * Python 3.10 ou superior instalado.
@@ -82,13 +82,13 @@ Meu-or-amento-familiar/
 
 ---
 
-## 🔐 Privacidade e Segurança
+## Privacidade e Segurança
 
-> ⚠️ **Aviso de Segurança:** Nunca envie planilhas contendo extratos bancários reais, números de documentos ou dados pessoais para o repositório público. Configure seu arquivo `.gitignore` para ignorar pastas contendo dados privados e utilize apenas dados sintéticos/fictícios para testes públicos.
+>  **Aviso de Segurança:** Nunca envie planilhas contendo extratos bancários reais, números de documentos ou dados pessoais para o repositório público. Configure seu arquivo `.gitignore` para ignorar pastas contendo dados privados e utilize apenas dados sintéticos/fictícios para testes públicos.
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
 
